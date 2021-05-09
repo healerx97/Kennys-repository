@@ -1,0 +1,41 @@
+h1 {
+    font-size: 42px;
+    line-height: 1.2em;
+    margin-left: 12px;
+    margin-top: 9px;
+    margin-bottom: 0px;
+    text-rendering: optimizeLegibility;
+}
+h2 {
+    font-size: 15px;
+    line-height: 1.6em;
+    margin-bottom: 1.4em;
+    color: #444;
+    margin-left: 20px;
+}
+
+a img {
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 10px;
+
+}
+
+div#pictures {
+    margin-top: 0px;
+    border: 1px solid #a7d7f9;
+    border-right-width: 0;
+    margin-left: 80px;
+    background-color: #ffffff;
+    color: #202122;
+    direction: ltr;
+    padding: 1em;
+    display: block;
+    aspect-ratio: auto;
+
+}
+
+body {
+    background-color: beige;
+}
